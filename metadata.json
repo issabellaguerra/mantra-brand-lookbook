@@ -1,0 +1,6 @@
+{
+  "name": "Mantra — Brand Lookbook & Identidad Visual",
+  "description": "Presentación interactiva del sistema de marca, nuevo logotipo, anatomía del símbolo, arquitectura cromática y universo gráfico de Mantra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
